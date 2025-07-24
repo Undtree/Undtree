@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, this is UnderTree. 👋
 
+- 🌱 I’m currently majoring CS in Zhejiang University.
 <!--
 **Undtree/Undtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
